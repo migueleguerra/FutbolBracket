@@ -1,0 +1,9 @@
+.vs
+FutbolBracket/appsettings.Development.json
+FutbolBracket/appsettings.json
+FutbolBracket/bin
+FutbolBracket/obj
+FutbolDataService/bin
+FutbolDataService/obj
+FutbolDataService/appsettings.Development.json
+FutbolDataService/appsettings.json
